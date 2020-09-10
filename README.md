@@ -4,7 +4,7 @@
 
 This was the first Udacity data analyst project I worked on where I investigated the TMDB Movie Dataset and communicated my findings.
 
-The data set contains information on 10,000+ movies from 1960 through to 2015.
+The csv data set contains information on 10,000+ movies from 1960 through to 2015.
 
 **I used the following libraries to analyse the dataset:**
 
